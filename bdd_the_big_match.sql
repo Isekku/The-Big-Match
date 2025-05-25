@@ -273,7 +273,7 @@ CREATE TABLE appAchat (
 CREATE TABLE objetAchete (
     idAAc INT NOT NULL,
     genre VARCHAR(200) NOT NULL,
-    prix VARCHAR(200) NOT NULL,
+    prix DECIMAL(10, 2) NOT NULL,
     date_achat DATE,
 
     CONSTRAINT fk_app_achat FOREIGN KEY (idAAc) REFERENCES appAchat(idAAc) ON DELETE CASCADE
@@ -316,15 +316,13 @@ CREATE TABLE appAvisContenu (
 );
 
 CREATE TABLE avis (
-    idRE INT NOT NULL,
     idAAv INT NOT NULL,
     titre VARCHAR(200) NOT NULL,
     createur VARCHAR(200) NOT NULL,
     note INT,
     explication VARCHAR(200),
 
-    PRIMARY KEY (idRE, idAAv, titre, createur),
-    CONSTRAINT fk_reseau_externe FOREIGN KEY (idRE) REFERENCES reseauExterne(idRE) ON DELETE CASCADE,
+    PRIMARY KEY (idAAv, titre, createur),
     CONSTRAINT fk_app_avis FOREIGN KEY (idAAv) REFERENCES appAvis(idAAv) ON DELETE CASCADE,
     CONSTRAINT fk_contenu FOREIGN KEY (titre, createur) REFERENCES contenu(titre, createur) ON DELETE CASCADE
 );
