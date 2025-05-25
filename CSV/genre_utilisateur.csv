@@ -1,0 +1,1001 @@
+idU,nom_genre,type_genre,genre_assigne_naiss,pronom_preferes,transition_sociale,transition_medicale
+1,Demigenre homme,cisgenre,Femme,elle/elle,,
+2,Non-binaire,cisgenre,Femme,iel,False,True
+3,Genderqueer,transgenre,Homme,iel,True,False
+4,Demigenre femme,cisgenre,Intersexe,il/lui,False,False
+5,Homme,cisgenre,,elle/elle,,True
+6,Androgyne,transgenre,Non assigné,ul,True,True
+7,Genre fluide,transgenre,Non assigné,elleux,True,False
+8,Genderqueer,transgenre,,elle/elle,False,True
+9,Neutrois,cisgenre,,,True,False
+10,Genderqueer,transgenre,Homme,ul,,False
+11,Non-binaire,transgenre,Homme,,,
+12,Two-Spirit,transgenre,Homme,ol,,True
+13,Demigenre femme,transgenre,Homme,elleux,True,True
+14,Androgyne,transgenre,Femme,elle/elle,,False
+15,Genderqueer,transgenre,Intersexe,,,
+16,Genderqueer,cisgenre,Intersexe,il/lui,False,False
+17,Genderqueer,cisgenre,Intersexe,iel,True,True
+18,Demigenre femme,transgenre,,elleux,True,True
+19,Neutrois,transgenre,,elleux,,
+20,Agenre,cisgenre,,iel,False,
+21,Femme,transgenre,Intersexe,iel,,True
+22,Non-binaire,transgenre,,elleux,True,False
+23,Bigender,cisgenre,Femme,il/lui,False,True
+24,Demigenre homme,transgenre,Femme,,False,True
+25,Non-binaire,transgenre,Homme,,True,
+26,Agenre,transgenre,,,False,
+27,Non-binaire,cisgenre,Homme,,,
+28,Two-Spirit,transgenre,,,,
+29,Non-binaire,transgenre,Femme,,True,True
+30,Androgyne,cisgenre,Intersexe,,False,True
+31,Genderqueer,cisgenre,Intersexe,,False,
+32,Agenre,transgenre,,,True,True
+33,Non-binaire,cisgenre,Homme,ol,True,False
+34,Non-binaire,cisgenre,Intersexe,ol,,False
+35,Bigender,cisgenre,Intersexe,iel/iels,,False
+36,Demigenre femme,transgenre,,ul,False,False
+37,Non-binaire,cisgenre,Homme,ol,False,False
+38,Genre fluide,transgenre,Homme,elle/elle,True,True
+39,Non-binaire,transgenre,Homme,iel/iels,True,True
+40,Demigenre femme,transgenre,Femme,elu,,True
+41,Homme,transgenre,,,True,
+42,Neutrois,cisgenre,Femme,elle/elle,False,True
+43,Neutrois,transgenre,Homme,,True,False
+44,Androgyne,transgenre,Intersexe,il/lui,False,False
+45,Neutrois,transgenre,Intersexe,elleux,False,
+46,Femme,transgenre,,il/lui,True,
+47,Demigenre homme,transgenre,Intersexe,,False,True
+48,Androgyne,transgenre,,,False,
+49,Agenre,transgenre,,elu,,False
+50,Femme,transgenre,,il/lui,False,False
+51,Bigender,transgenre,Homme,,True,True
+52,Genre fluide,cisgenre,,elleux,True,
+53,Demigenre femme,cisgenre,Non assigné,ul,,False
+54,Agenre,transgenre,Homme,ol,,True
+55,Non-binaire,transgenre,Non assigné,elleux,True,False
+56,Neutrois,transgenre,Non assigné,,False,
+57,Demigenre femme,cisgenre,Intersexe,elu,,True
+58,Genderqueer,cisgenre,,il/lui,True,False
+59,Demigenre femme,transgenre,Femme,ul,True,False
+60,Androgyne,cisgenre,Femme,,False,True
+61,Bigender,cisgenre,Intersexe,elleux,True,True
+62,Androgyne,cisgenre,Intersexe,,,True
+63,Demigenre femme,cisgenre,,ol,True,True
+64,Non-binaire,transgenre,Non assigné,ul,,True
+65,Genderqueer,transgenre,Intersexe,elu,True,False
+66,Demigenre femme,transgenre,Intersexe,ul,False,
+67,Genre fluide,cisgenre,Femme,elleux,False,
+68,Androgyne,cisgenre,Non assigné,il/lui,False,True
+69,Bigender,transgenre,Femme,elu,True,True
+70,Demigenre homme,transgenre,Non assigné,elleux,True,
+71,Androgyne,transgenre,Intersexe,elu,False,True
+72,Non-binaire,cisgenre,,ul,,False
+73,Demigenre homme,transgenre,Intersexe,iel,False,False
+74,Agenre,cisgenre,Homme,iel/iels,False,True
+75,Genderqueer,transgenre,Femme,,True,False
+76,Androgyne,transgenre,,iel/iels,,False
+77,Homme,transgenre,Homme,iel/iels,False,False
+78,Genre fluide,cisgenre,Homme,elle/elle,True,False
+79,Bigender,cisgenre,,elleux,,True
+80,Non-binaire,transgenre,Intersexe,elu,True,False
+81,Non-binaire,transgenre,Intersexe,iel/iels,,
+82,Demigenre homme,cisgenre,Non assigné,,,False
+83,Bigender,cisgenre,Non assigné,elu,True,False
+84,Non-binaire,cisgenre,Femme,ol,True,
+85,Demigenre femme,cisgenre,,ol,False,True
+86,Bigender,transgenre,Intersexe,,True,
+87,Neutrois,transgenre,Homme,elu,False,True
+88,Genderqueer,transgenre,Homme,,True,
+89,Demigenre homme,transgenre,,il/lui,True,
+90,Two-Spirit,transgenre,Femme,il/lui,True,False
+91,Agenre,cisgenre,Non assigné,elle/elle,,True
+92,Two-Spirit,transgenre,Intersexe,iel/iels,,False
+93,Bigender,cisgenre,Homme,elu,False,False
+94,Demigenre homme,cisgenre,,il/lui,False,True
+95,Genre fluide,cisgenre,Homme,elu,,True
+96,Genderqueer,transgenre,,elle/elle,,
+97,Homme,transgenre,Non assigné,elle/elle,,False
+98,Femme,cisgenre,Homme,,False,False
+99,Non-binaire,cisgenre,Femme,il/lui,True,True
+100,Two-Spirit,transgenre,Non assigné,elleux,,True
+101,Neutrois,cisgenre,,elleux,,False
+102,Demigenre homme,cisgenre,Intersexe,elleux,True,True
+103,Demigenre femme,transgenre,Non assigné,ul,True,True
+104,Bigender,cisgenre,Intersexe,iel,False,True
+105,Homme,cisgenre,Non assigné,,False,True
+106,Bigender,cisgenre,Intersexe,ul,True,False
+107,Two-Spirit,cisgenre,,,,True
+108,Genderqueer,cisgenre,,elleux,,
+109,Non-binaire,transgenre,,elleux,True,True
+110,Genre fluide,transgenre,,,,
+111,Genre fluide,transgenre,Homme,,False,True
+112,Homme,transgenre,Intersexe,elleux,True,False
+113,Bigender,cisgenre,Intersexe,ul,False,True
+114,Neutrois,transgenre,Non assigné,elleux,True,False
+115,Femme,transgenre,Non assigné,elle/elle,True,False
+116,Neutrois,transgenre,Non assigné,elu,True,True
+117,Demigenre homme,transgenre,Intersexe,ul,,True
+118,Genderqueer,transgenre,Intersexe,elle/elle,False,True
+119,Demigenre femme,transgenre,Homme,elle/elle,True,
+120,Homme,transgenre,,iel,True,True
+121,Neutrois,transgenre,,elle/elle,,True
+122,Demigenre homme,cisgenre,Homme,il/lui,,False
+123,Two-Spirit,transgenre,Intersexe,elle/elle,False,
+124,Two-Spirit,cisgenre,Non assigné,,,False
+125,Two-Spirit,cisgenre,Femme,ol,True,
+126,Demigenre homme,cisgenre,Non assigné,iel,True,True
+127,Non-binaire,cisgenre,,,,True
+128,Homme,cisgenre,Femme,elu,,False
+129,Two-Spirit,transgenre,Non assigné,elleux,False,
+130,Genderqueer,transgenre,,ol,False,True
+131,Two-Spirit,cisgenre,Intersexe,elleux,True,False
+132,Genderqueer,cisgenre,Non assigné,ul,False,False
+133,Agenre,cisgenre,Non assigné,ol,True,False
+134,Neutrois,transgenre,Non assigné,ul,,True
+135,Demigenre femme,cisgenre,,,True,
+136,Genderqueer,cisgenre,Femme,,False,True
+137,Genre fluide,cisgenre,Homme,ul,False,True
+138,Two-Spirit,cisgenre,Femme,il/lui,,False
+139,Androgyne,cisgenre,Homme,,False,
+140,Androgyne,transgenre,Non assigné,,,False
+141,Femme,cisgenre,Intersexe,,False,True
+142,Demigenre femme,transgenre,Intersexe,elle/elle,False,False
+143,Genderqueer,transgenre,Femme,,True,False
+144,Agenre,transgenre,Non assigné,il/lui,True,
+145,Demigenre femme,cisgenre,,elleux,,
+146,Non-binaire,transgenre,,iel,True,False
+147,Neutrois,transgenre,Intersexe,,False,
+148,Genre fluide,transgenre,Non assigné,ol,False,
+149,Femme,cisgenre,,iel/iels,,False
+150,Neutrois,cisgenre,Femme,il/lui,False,False
+151,Non-binaire,transgenre,Homme,,,False
+152,Agenre,cisgenre,Homme,elu,False,True
+153,Neutrois,cisgenre,Intersexe,,False,False
+154,Androgyne,cisgenre,Homme,elu,,False
+155,Genre fluide,transgenre,Femme,iel/iels,True,False
+156,Two-Spirit,transgenre,Non assigné,ul,,
+157,Agenre,cisgenre,,iel/iels,False,False
+158,Two-Spirit,cisgenre,Non assigné,iel,True,
+159,Two-Spirit,cisgenre,Homme,,True,False
+160,Genre fluide,transgenre,Non assigné,ul,,True
+161,Genre fluide,cisgenre,,il/lui,False,False
+162,Demigenre homme,transgenre,,,True,
+163,Agenre,transgenre,Homme,il/lui,False,True
+164,Genre fluide,transgenre,Non assigné,iel,False,True
+165,Genderqueer,cisgenre,Femme,iel,True,True
+166,Genre fluide,cisgenre,Homme,iel,False,
+167,Neutrois,cisgenre,Intersexe,,True,True
+168,Genre fluide,cisgenre,,,,True
+169,Demigenre femme,cisgenre,,,False,True
+170,Genderqueer,transgenre,Femme,elu,True,
+171,Genre fluide,cisgenre,Intersexe,,,True
+172,Neutrois,transgenre,Homme,,,True
+173,Neutrois,cisgenre,Non assigné,iel,False,
+174,Two-Spirit,transgenre,Homme,,,True
+175,Femme,cisgenre,,iel,False,False
+176,Neutrois,transgenre,,,False,False
+177,Demigenre homme,cisgenre,,ul,,False
+178,Homme,transgenre,Intersexe,iel/iels,False,
+179,Demigenre femme,transgenre,Intersexe,ol,False,True
+180,Demigenre femme,transgenre,,ol,False,True
+181,Genderqueer,transgenre,Non assigné,elle/elle,True,True
+182,Agenre,transgenre,Intersexe,elleux,True,True
+183,Agenre,cisgenre,,,False,False
+184,Agenre,cisgenre,,ol,True,True
+185,Demigenre femme,transgenre,Homme,iel/iels,True,True
+186,Bigender,transgenre,Intersexe,ol,,True
+187,Agenre,cisgenre,Non assigné,il/lui,,False
+188,Neutrois,cisgenre,Homme,,False,False
+189,Homme,transgenre,,iel/iels,True,True
+190,Non-binaire,cisgenre,,ol,,False
+191,Femme,transgenre,,elle/elle,False,False
+192,Agenre,transgenre,Non assigné,elle/elle,False,
+193,Bigender,cisgenre,Intersexe,il/lui,,True
+194,Genre fluide,transgenre,,,False,False
+195,Femme,transgenre,Homme,ul,,
+196,Two-Spirit,transgenre,Non assigné,iel,True,True
+197,Agenre,cisgenre,,elu,,True
+198,Demigenre homme,transgenre,Homme,ol,True,
+199,Genderqueer,cisgenre,,elu,False,
+200,Genderqueer,cisgenre,Non assigné,elle/elle,True,False
+201,Homme,transgenre,Femme,,False,
+202,Non-binaire,transgenre,,,,False
+203,Androgyne,transgenre,Femme,elu,,False
+204,Femme,transgenre,,elle/elle,True,False
+205,Two-Spirit,transgenre,Non assigné,,,False
+206,Two-Spirit,transgenre,,elleux,False,True
+207,Femme,transgenre,Femme,,True,True
+208,Agenre,cisgenre,,ol,False,True
+209,Genderqueer,cisgenre,,,False,True
+210,Bigender,transgenre,,,True,False
+211,Two-Spirit,transgenre,Femme,il/lui,,
+212,Androgyne,cisgenre,,ul,True,True
+213,Neutrois,transgenre,Non assigné,elleux,True,True
+214,Non-binaire,cisgenre,Homme,,False,False
+215,Genre fluide,cisgenre,Non assigné,iel/iels,False,
+216,Agenre,cisgenre,Homme,elle/elle,True,True
+217,Genderqueer,cisgenre,Non assigné,elu,,False
+218,Androgyne,transgenre,,elle/elle,False,
+219,Femme,transgenre,,iel/iels,True,False
+220,Neutrois,transgenre,Femme,elu,False,False
+221,Androgyne,cisgenre,Femme,elle/elle,,False
+222,Femme,cisgenre,Femme,iel,True,False
+223,Bigender,cisgenre,Femme,elle/elle,False,
+224,Androgyne,cisgenre,,elle/elle,False,False
+225,Homme,transgenre,Homme,elle/elle,True,False
+226,Homme,transgenre,Homme,elle/elle,,False
+227,Demigenre homme,cisgenre,Femme,,,True
+228,Bigender,cisgenre,Non assigné,iel,False,
+229,Androgyne,transgenre,Non assigné,ol,False,False
+230,Two-Spirit,cisgenre,,iel/iels,,
+231,Non-binaire,transgenre,Intersexe,iel/iels,True,False
+232,Demigenre homme,transgenre,Non assigné,ol,True,True
+233,Demigenre homme,cisgenre,Non assigné,elleux,True,False
+234,Demigenre femme,transgenre,Non assigné,ol,,
+235,Two-Spirit,transgenre,Intersexe,elleux,,True
+236,Homme,transgenre,Non assigné,,False,False
+237,Androgyne,transgenre,Femme,iel,True,True
+238,Genre fluide,transgenre,,il/lui,True,
+239,Homme,cisgenre,Intersexe,iel/iels,True,True
+240,Genre fluide,cisgenre,Intersexe,iel/iels,True,
+241,Demigenre homme,transgenre,Non assigné,ul,,False
+242,Genderqueer,cisgenre,Homme,elleux,,True
+243,Demigenre homme,cisgenre,Femme,,,
+244,Neutrois,cisgenre,,iel/iels,True,
+245,Neutrois,transgenre,,,True,True
+246,Neutrois,transgenre,Homme,elleux,True,True
+247,Bigender,cisgenre,Intersexe,ul,True,True
+248,Genderqueer,transgenre,Non assigné,,,False
+249,Homme,transgenre,Non assigné,,False,True
+250,Homme,cisgenre,,ul,True,
+251,Genre fluide,transgenre,Intersexe,,True,False
+252,Genre fluide,cisgenre,Non assigné,elle/elle,False,False
+253,Homme,cisgenre,Femme,ol,False,False
+254,Genre fluide,cisgenre,,,,
+255,Neutrois,cisgenre,Femme,il/lui,,False
+256,Genre fluide,transgenre,Femme,iel/iels,False,
+257,Demigenre femme,transgenre,,elle/elle,,True
+258,Bigender,transgenre,Non assigné,iel,False,False
+259,Bigender,cisgenre,,ul,,False
+260,Agenre,transgenre,Non assigné,ul,False,False
+261,Bigender,transgenre,Non assigné,,True,False
+262,Non-binaire,transgenre,,ul,,False
+263,Genre fluide,cisgenre,Homme,ol,,False
+264,Agenre,transgenre,,il/lui,,
+265,Femme,transgenre,,elleux,False,True
+266,Two-Spirit,transgenre,Femme,,,False
+267,Non-binaire,transgenre,Femme,,True,True
+268,Neutrois,transgenre,Homme,elleux,,False
+269,Demigenre homme,transgenre,,elleux,,False
+270,Bigender,cisgenre,Homme,,,
+271,Femme,transgenre,Femme,,,True
+272,Homme,transgenre,Femme,elle/elle,False,True
+273,Neutrois,transgenre,Femme,iel,True,False
+274,Agenre,cisgenre,Intersexe,,,True
+275,Androgyne,transgenre,Homme,ul,True,False
+276,Homme,cisgenre,Femme,,False,False
+277,Genderqueer,cisgenre,Non assigné,elleux,False,
+278,Genderqueer,transgenre,Femme,,True,False
+279,Androgyne,transgenre,,,,True
+280,Agenre,cisgenre,Femme,,,
+281,Non-binaire,cisgenre,Femme,il/lui,False,
+282,Femme,transgenre,Intersexe,iel,True,
+283,Agenre,cisgenre,Intersexe,elu,True,False
+284,Bigender,transgenre,Femme,elleux,False,False
+285,Femme,cisgenre,,,False,
+286,Demigenre femme,transgenre,,,True,True
+287,Non-binaire,cisgenre,Femme,,,True
+288,Neutrois,cisgenre,Homme,,,False
+289,Bigender,cisgenre,Non assigné,,True,
+290,Non-binaire,cisgenre,,ul,False,
+291,Genre fluide,transgenre,Non assigné,ol,True,
+292,Neutrois,transgenre,Femme,ul,False,
+293,Demigenre femme,transgenre,Non assigné,,True,True
+294,Demigenre femme,transgenre,Intersexe,il/lui,True,
+295,Demigenre homme,transgenre,,il/lui,,True
+296,Bigender,transgenre,,ul,,True
+297,Genre fluide,transgenre,,,True,True
+298,Neutrois,transgenre,Non assigné,elleux,,
+299,Androgyne,transgenre,Non assigné,,False,True
+300,Non-binaire,cisgenre,,,False,True
+301,Genderqueer,cisgenre,Intersexe,il/lui,False,True
+302,Demigenre homme,transgenre,,elle/elle,False,
+303,Non-binaire,cisgenre,Intersexe,,False,
+304,Bigender,transgenre,Intersexe,elu,,False
+305,Agenre,transgenre,,iel,True,False
+306,Non-binaire,transgenre,Intersexe,ol,True,True
+307,Bigender,transgenre,,elle/elle,False,False
+308,Homme,cisgenre,Intersexe,elu,False,True
+309,Non-binaire,cisgenre,Homme,ol,,False
+310,Demigenre femme,transgenre,Intersexe,iel/iels,True,
+311,Demigenre femme,transgenre,Non assigné,,False,True
+312,Demigenre homme,transgenre,,iel,False,False
+313,Non-binaire,transgenre,Non assigné,elu,,False
+314,Demigenre femme,cisgenre,Femme,elu,True,False
+315,Demigenre femme,cisgenre,Homme,iel,,
+316,Genderqueer,cisgenre,Femme,iel,True,
+317,Demigenre homme,transgenre,Non assigné,,False,
+318,Neutrois,cisgenre,Non assigné,,True,False
+319,Homme,transgenre,Intersexe,elu,False,True
+320,Genderqueer,transgenre,,,True,False
+321,Non-binaire,cisgenre,Femme,,True,False
+322,Genre fluide,transgenre,Homme,elu,False,True
+323,Bigender,cisgenre,Homme,,False,True
+324,Neutrois,cisgenre,Femme,,True,False
+325,Non-binaire,cisgenre,,,True,True
+326,Demigenre homme,transgenre,Non assigné,iel/iels,True,False
+327,Non-binaire,transgenre,Intersexe,iel/iels,,False
+328,Androgyne,transgenre,,,,True
+329,Genderqueer,transgenre,Femme,elu,True,
+330,Genre fluide,transgenre,Femme,,True,True
+331,Two-Spirit,transgenre,Non assigné,,,True
+332,Neutrois,transgenre,Non assigné,ol,False,True
+333,Neutrois,cisgenre,Homme,,False,False
+334,Femme,transgenre,Femme,elu,True,
+335,Agenre,cisgenre,Femme,il/lui,False,False
+336,Femme,transgenre,Intersexe,il/lui,False,False
+337,Genre fluide,cisgenre,Homme,iel,False,True
+338,Bigender,cisgenre,Intersexe,elle/elle,True,
+339,Agenre,transgenre,Intersexe,ol,,True
+340,Genre fluide,transgenre,Non assigné,,False,True
+341,Bigender,cisgenre,Femme,iel,True,
+342,Homme,cisgenre,Intersexe,elu,False,True
+343,Non-binaire,transgenre,Non assigné,,True,
+344,Demigenre femme,cisgenre,Non assigné,,False,
+345,Femme,transgenre,Femme,elle/elle,,False
+346,Demigenre femme,transgenre,Homme,elu,True,False
+347,Neutrois,transgenre,,,True,
+348,Homme,transgenre,,iel,True,
+349,Femme,cisgenre,Non assigné,ul,False,False
+350,Demigenre homme,transgenre,Intersexe,,,True
+351,Two-Spirit,cisgenre,Homme,ol,False,
+352,Genre fluide,transgenre,,elleux,True,False
+353,Bigender,cisgenre,,elu,False,
+354,Femme,transgenre,Homme,elle/elle,True,True
+355,Androgyne,transgenre,Non assigné,ol,False,True
+356,Non-binaire,cisgenre,Femme,,,False
+357,Demigenre femme,cisgenre,Homme,il/lui,False,False
+358,Non-binaire,cisgenre,Non assigné,iel/iels,False,True
+359,Androgyne,cisgenre,Non assigné,iel,True,
+360,Agenre,cisgenre,Homme,elle/elle,True,
+361,Genderqueer,cisgenre,Femme,elleux,True,False
+362,Agenre,transgenre,Intersexe,iel,,False
+363,Bigender,cisgenre,Intersexe,ol,True,True
+364,Homme,cisgenre,Homme,elu,False,True
+365,Demigenre femme,transgenre,Intersexe,,,False
+366,Femme,transgenre,Femme,ol,False,False
+367,Genderqueer,cisgenre,,iel,True,False
+368,Androgyne,cisgenre,Homme,elleux,False,False
+369,Demigenre homme,transgenre,,elleux,False,True
+370,Genre fluide,cisgenre,Femme,iel,False,
+371,Non-binaire,transgenre,Homme,elle/elle,,
+372,Femme,transgenre,Intersexe,ol,True,
+373,Androgyne,transgenre,,,,False
+374,Femme,transgenre,Non assigné,iel,False,False
+375,Neutrois,transgenre,Homme,,False,False
+376,Demigenre homme,cisgenre,Intersexe,ul,False,
+377,Demigenre femme,cisgenre,Homme,iel/iels,True,False
+378,Androgyne,cisgenre,,ul,False,False
+379,Femme,transgenre,Femme,ol,False,True
+380,Homme,cisgenre,Non assigné,iel/iels,,
+381,Bigender,cisgenre,,il/lui,,False
+382,Bigender,cisgenre,,,False,
+383,Genderqueer,cisgenre,Non assigné,elu,False,False
+384,Homme,transgenre,,iel/iels,,True
+385,Neutrois,transgenre,Intersexe,ol,,
+386,Demigenre homme,cisgenre,,,False,
+387,Non-binaire,cisgenre,,,True,False
+388,Agenre,cisgenre,Non assigné,ul,False,True
+389,Genderqueer,transgenre,Intersexe,elle/elle,False,True
+390,Androgyne,transgenre,Femme,iel,,
+391,Agenre,cisgenre,Femme,elu,False,False
+392,Two-Spirit,transgenre,,iel,False,True
+393,Femme,cisgenre,Femme,ol,,
+394,Non-binaire,cisgenre,Intersexe,,,
+395,Demigenre femme,transgenre,Non assigné,,False,True
+396,Demigenre femme,cisgenre,Homme,,True,False
+397,Bigender,transgenre,Femme,elleux,,True
+398,Demigenre homme,cisgenre,Intersexe,iel,False,
+399,Neutrois,transgenre,Femme,,True,False
+400,Neutrois,transgenre,Homme,iel/iels,True,
+401,Non-binaire,cisgenre,Intersexe,il/lui,True,False
+402,Femme,transgenre,,il/lui,,False
+403,Femme,cisgenre,,elle/elle,,False
+404,Homme,transgenre,,ol,True,True
+405,Homme,transgenre,Intersexe,iel/iels,False,
+406,Two-Spirit,cisgenre,Homme,,False,False
+407,Genre fluide,transgenre,,ol,True,True
+408,Demigenre femme,transgenre,Homme,ul,True,False
+409,Femme,cisgenre,Femme,elu,False,False
+410,Demigenre homme,cisgenre,,elle/elle,,
+411,Bigender,cisgenre,,,False,True
+412,Neutrois,cisgenre,Homme,iel,False,True
+413,Femme,transgenre,Homme,iel,,False
+414,Non-binaire,transgenre,Femme,elle/elle,True,
+415,Genderqueer,cisgenre,Femme,elleux,False,True
+416,Genre fluide,cisgenre,Non assigné,il/lui,True,False
+417,Agenre,cisgenre,Non assigné,il/lui,,
+418,Agenre,cisgenre,,,,True
+419,Genderqueer,transgenre,Intersexe,iel/iels,,False
+420,Demigenre femme,transgenre,Intersexe,,True,True
+421,Homme,cisgenre,Non assigné,elle/elle,,False
+422,Femme,cisgenre,,,False,False
+423,Two-Spirit,cisgenre,Homme,iel,True,True
+424,Agenre,transgenre,Femme,iel/iels,False,False
+425,Bigender,transgenre,,elleux,False,True
+426,Two-Spirit,transgenre,,elleux,False,True
+427,Neutrois,cisgenre,,,True,False
+428,Two-Spirit,transgenre,,il/lui,False,False
+429,Non-binaire,transgenre,Homme,iel,,
+430,Bigender,transgenre,Intersexe,elle/elle,False,False
+431,Androgyne,transgenre,Intersexe,elu,False,True
+432,Genre fluide,transgenre,Intersexe,elu,True,False
+433,Non-binaire,transgenre,Homme,il/lui,False,False
+434,Demigenre femme,transgenre,Femme,iel/iels,,True
+435,Femme,cisgenre,,,,False
+436,Demigenre homme,transgenre,Non assigné,elleux,False,
+437,Agenre,cisgenre,Femme,,True,False
+438,Genre fluide,transgenre,Femme,elu,True,
+439,Genre fluide,cisgenre,,elle/elle,,True
+440,Non-binaire,transgenre,,elle/elle,,
+441,Two-Spirit,transgenre,Intersexe,iel,False,True
+442,Agenre,transgenre,,il/lui,,False
+443,Neutrois,cisgenre,Intersexe,ul,False,False
+444,Non-binaire,transgenre,,iel,True,True
+445,Homme,transgenre,,iel/iels,False,True
+446,Femme,transgenre,,ol,,
+447,Agenre,transgenre,,,True,True
+448,Agenre,cisgenre,,elle/elle,False,True
+449,Androgyne,transgenre,Homme,il/lui,False,True
+450,Demigenre femme,cisgenre,,elu,False,
+451,Femme,cisgenre,Homme,elle/elle,False,
+452,Femme,cisgenre,,elu,True,
+453,Non-binaire,cisgenre,Non assigné,iel/iels,False,True
+454,Bigender,cisgenre,,,True,False
+455,Genre fluide,cisgenre,Femme,elle/elle,True,
+456,Femme,cisgenre,Femme,elle/elle,False,
+457,Femme,cisgenre,Homme,,True,
+458,Bigender,transgenre,Non assigné,ul,False,True
+459,Genderqueer,cisgenre,Homme,,True,True
+460,Homme,transgenre,,ol,True,False
+461,Non-binaire,transgenre,Homme,,True,True
+462,Bigender,cisgenre,,,,True
+463,Bigender,transgenre,Non assigné,,False,True
+464,Neutrois,cisgenre,Intersexe,elle/elle,False,False
+465,Genre fluide,cisgenre,Non assigné,,False,
+466,Demigenre homme,cisgenre,Non assigné,elu,False,True
+467,Bigender,cisgenre,,ul,,False
+468,Bigender,cisgenre,Femme,,,False
+469,Demigenre femme,cisgenre,Non assigné,,False,
+470,Androgyne,transgenre,Femme,,False,True
+471,Neutrois,transgenre,Homme,il/lui,False,True
+472,Neutrois,cisgenre,Femme,iel/iels,True,True
+473,Femme,transgenre,Intersexe,il/lui,False,
+474,Genderqueer,cisgenre,,,False,
+475,Agenre,transgenre,Homme,elle/elle,False,False
+476,Genre fluide,transgenre,,ol,True,False
+477,Demigenre femme,cisgenre,Non assigné,ol,True,False
+478,Two-Spirit,cisgenre,Intersexe,iel,,False
+479,Homme,transgenre,,iel/iels,True,True
+480,Genderqueer,transgenre,Intersexe,,True,True
+481,Genderqueer,cisgenre,,elu,True,False
+482,Agenre,transgenre,Intersexe,ol,False,
+483,Genderqueer,cisgenre,Non assigné,,False,False
+484,Demigenre femme,cisgenre,Femme,iel,True,False
+485,Homme,transgenre,,iel/iels,,False
+486,Non-binaire,cisgenre,Homme,,,True
+487,Two-Spirit,cisgenre,Intersexe,elle/elle,True,True
+488,Genderqueer,transgenre,Femme,elu,False,False
+489,Androgyne,cisgenre,Homme,il/lui,True,False
+490,Genderqueer,cisgenre,,,,True
+491,Genre fluide,cisgenre,Femme,iel,True,
+492,Agenre,transgenre,Femme,iel,,True
+493,Neutrois,cisgenre,,iel/iels,False,True
+494,Androgyne,cisgenre,,iel/iels,True,True
+495,Bigender,transgenre,,iel/iels,True,
+496,Two-Spirit,cisgenre,,,False,True
+497,Genderqueer,cisgenre,,ul,False,True
+498,Agenre,cisgenre,Homme,,,False
+499,Femme,transgenre,,ol,False,
+500,Neutrois,transgenre,Intersexe,elleux,,
+501,Agenre,cisgenre,Non assigné,iel,True,
+502,Genre fluide,cisgenre,Femme,ol,True,False
+503,Agenre,cisgenre,Non assigné,elle/elle,True,False
+504,Androgyne,cisgenre,Non assigné,elleux,False,False
+505,Non-binaire,transgenre,Femme,iel,,True
+506,Genre fluide,transgenre,Femme,elu,False,True
+507,Femme,cisgenre,Femme,ul,,False
+508,Neutrois,transgenre,Homme,elleux,False,
+509,Femme,transgenre,,elleux,True,
+510,Demigenre femme,cisgenre,,iel/iels,,True
+511,Neutrois,cisgenre,,ul,,
+512,Agenre,transgenre,Homme,,,True
+513,Genre fluide,cisgenre,,iel,,True
+514,Genre fluide,transgenre,Intersexe,il/lui,,
+515,Homme,transgenre,Intersexe,,,False
+516,Demigenre homme,cisgenre,,iel,False,True
+517,Two-Spirit,cisgenre,Femme,ul,True,False
+518,Androgyne,cisgenre,Non assigné,,,
+519,Femme,transgenre,Intersexe,elu,,True
+520,Two-Spirit,transgenre,,ol,True,False
+521,Bigender,cisgenre,Non assigné,iel,True,True
+522,Neutrois,transgenre,,,False,True
+523,Androgyne,cisgenre,Homme,iel,,False
+524,Bigender,transgenre,Femme,elu,False,True
+525,Non-binaire,cisgenre,Intersexe,elleux,False,True
+526,Androgyne,transgenre,,,True,True
+527,Demigenre femme,transgenre,Femme,elle/elle,True,True
+528,Neutrois,cisgenre,Intersexe,,True,False
+529,Demigenre femme,cisgenre,Non assigné,elu,False,False
+530,Demigenre homme,cisgenre,Non assigné,,True,
+531,Genderqueer,transgenre,Femme,,False,True
+532,Genderqueer,transgenre,,,,True
+533,Agenre,cisgenre,Non assigné,elleux,True,True
+534,Femme,transgenre,Femme,ul,True,True
+535,Non-binaire,cisgenre,Non assigné,elu,True,True
+536,Agenre,transgenre,Femme,ul,,True
+537,Homme,cisgenre,Intersexe,,True,True
+538,Two-Spirit,cisgenre,Homme,elu,,True
+539,Femme,transgenre,Homme,il/lui,True,True
+540,Bigender,transgenre,,elle/elle,False,True
+541,Two-Spirit,transgenre,,iel/iels,False,False
+542,Genre fluide,transgenre,Non assigné,,False,
+543,Genre fluide,cisgenre,Femme,iel,True,False
+544,Demigenre femme,cisgenre,Homme,il/lui,False,
+545,Neutrois,transgenre,Femme,,True,True
+546,Androgyne,transgenre,Intersexe,ul,,False
+547,Genderqueer,transgenre,Non assigné,elle/elle,True,False
+548,Demigenre homme,transgenre,Femme,iel,True,
+549,Agenre,cisgenre,Femme,ul,True,
+550,Non-binaire,cisgenre,Femme,elu,True,True
+551,Genderqueer,cisgenre,Femme,elu,False,False
+552,Demigenre homme,cisgenre,Non assigné,ol,True,False
+553,Genre fluide,transgenre,,elle/elle,,True
+554,Demigenre homme,transgenre,Intersexe,elleux,True,False
+555,Genre fluide,cisgenre,,elleux,True,True
+556,Femme,cisgenre,Femme,,False,True
+557,Genre fluide,transgenre,Non assigné,iel/iels,True,
+558,Androgyne,transgenre,Homme,,,False
+559,Androgyne,transgenre,,elleux,True,False
+560,Genre fluide,transgenre,Intersexe,elleux,True,True
+561,Genderqueer,transgenre,Femme,il/lui,False,True
+562,Neutrois,cisgenre,,elleux,False,
+563,Genre fluide,transgenre,Homme,iel/iels,False,True
+564,Neutrois,cisgenre,Intersexe,,,False
+565,Demigenre femme,cisgenre,Homme,,,False
+566,Homme,cisgenre,Intersexe,,,True
+567,Genre fluide,transgenre,Intersexe,ol,False,True
+568,Non-binaire,cisgenre,Femme,elleux,,False
+569,Neutrois,cisgenre,Homme,iel/iels,False,False
+570,Femme,transgenre,Homme,,False,False
+571,Homme,transgenre,Femme,elle/elle,,
+572,Genderqueer,transgenre,Intersexe,,True,False
+573,Neutrois,transgenre,Intersexe,,True,False
+574,Agenre,transgenre,Femme,,,
+575,Homme,cisgenre,,il/lui,,False
+576,Femme,transgenre,,elu,True,False
+577,Agenre,transgenre,Non assigné,iel,True,True
+578,Androgyne,cisgenre,,il/lui,True,False
+579,Femme,cisgenre,,,,
+580,Femme,transgenre,Femme,ol,False,
+581,Genre fluide,transgenre,Intersexe,il/lui,,False
+582,Homme,transgenre,Intersexe,,,
+583,Demigenre femme,transgenre,Non assigné,,True,
+584,Non-binaire,transgenre,Femme,ul,,False
+585,Homme,cisgenre,Femme,il/lui,True,True
+586,Neutrois,cisgenre,Femme,elu,True,False
+587,Bigender,transgenre,Homme,,False,
+588,Genre fluide,transgenre,,elleux,True,
+589,Neutrois,transgenre,,,,
+590,Demigenre homme,transgenre,,ol,,False
+591,Non-binaire,cisgenre,Intersexe,il/lui,,
+592,Androgyne,transgenre,,ol,True,
+593,Femme,cisgenre,,elle/elle,,True
+594,Agenre,cisgenre,Non assigné,,True,False
+595,Demigenre homme,cisgenre,Intersexe,,True,True
+596,Neutrois,transgenre,,ul,True,False
+597,Genre fluide,transgenre,,,True,
+598,Androgyne,cisgenre,Homme,elleux,True,False
+599,Two-Spirit,cisgenre,Homme,iel,False,True
+600,Neutrois,transgenre,Femme,,False,True
+601,Femme,cisgenre,,,False,
+602,Androgyne,transgenre,Homme,,True,
+603,Bigender,transgenre,Femme,elleux,False,True
+604,Agenre,transgenre,Homme,ol,,
+605,Two-Spirit,cisgenre,,,,
+606,Two-Spirit,cisgenre,Femme,elle/elle,False,True
+607,Non-binaire,cisgenre,,ul,False,False
+608,Demigenre homme,cisgenre,Femme,elu,,True
+609,Bigender,transgenre,,elu,True,True
+610,Genderqueer,cisgenre,Non assigné,il/lui,False,True
+611,Two-Spirit,cisgenre,Homme,elu,True,False
+612,Demigenre femme,cisgenre,Homme,elleux,,
+613,Neutrois,cisgenre,Intersexe,,True,False
+614,Genre fluide,cisgenre,Homme,elleux,False,False
+615,Non-binaire,transgenre,Homme,iel/iels,True,False
+616,Bigender,transgenre,,iel,False,False
+617,Agenre,cisgenre,Intersexe,iel/iels,False,
+618,Androgyne,transgenre,Femme,,True,False
+619,Agenre,cisgenre,,elu,True,False
+620,Bigender,cisgenre,Femme,ul,True,False
+621,Genderqueer,cisgenre,,iel/iels,True,True
+622,Two-Spirit,cisgenre,Non assigné,,False,True
+623,Agenre,transgenre,,,True,False
+624,Homme,transgenre,Femme,iel,,False
+625,Demigenre femme,transgenre,Non assigné,iel/iels,,False
+626,Demigenre femme,transgenre,Femme,elu,True,False
+627,Androgyne,cisgenre,Intersexe,elle/elle,False,True
+628,Agenre,cisgenre,Intersexe,,False,True
+629,Androgyne,transgenre,Non assigné,elu,True,
+630,Agenre,transgenre,,,,True
+631,Neutrois,transgenre,,elu,True,True
+632,Two-Spirit,cisgenre,,,,
+633,Neutrois,transgenre,,ol,True,False
+634,Androgyne,transgenre,,,False,
+635,Demigenre femme,transgenre,Intersexe,,,True
+636,Demigenre homme,cisgenre,Femme,iel,False,True
+637,Bigender,cisgenre,Intersexe,ul,False,
+638,Agenre,transgenre,,elleux,,True
+639,Demigenre femme,transgenre,Femme,ul,,
+640,Bigender,transgenre,Intersexe,elle/elle,False,True
+641,Genderqueer,cisgenre,,elleux,,
+642,Femme,transgenre,Femme,elu,True,
+643,Homme,transgenre,,,False,False
+644,Homme,transgenre,,elleux,True,True
+645,Homme,cisgenre,,iel/iels,,False
+646,Androgyne,cisgenre,Intersexe,iel/iels,True,False
+647,Two-Spirit,cisgenre,,ol,,True
+648,Demigenre femme,transgenre,Non assigné,ol,,
+649,Homme,cisgenre,,elleux,,True
+650,Demigenre homme,cisgenre,Non assigné,iel,False,
+651,Two-Spirit,transgenre,Homme,,,False
+652,Agenre,cisgenre,Femme,iel,False,False
+653,Agenre,cisgenre,,iel/iels,,False
+654,Non-binaire,cisgenre,,,,True
+655,Agenre,cisgenre,Homme,elu,,False
+656,Demigenre femme,cisgenre,,elle/elle,,True
+657,Homme,cisgenre,Femme,elleux,True,
+658,Two-Spirit,cisgenre,,elu,False,
+659,Femme,transgenre,Non assigné,elleux,False,
+660,Non-binaire,cisgenre,,elu,False,
+661,Neutrois,transgenre,Homme,ul,False,
+662,Demigenre homme,transgenre,Intersexe,ol,,True
+663,Non-binaire,transgenre,Homme,,True,True
+664,Neutrois,transgenre,Femme,,,
+665,Demigenre femme,transgenre,Homme,elu,False,False
+666,Genre fluide,cisgenre,Femme,ul,,True
+667,Neutrois,transgenre,Non assigné,ul,True,
+668,Demigenre homme,transgenre,Non assigné,elleux,True,True
+669,Two-Spirit,transgenre,,iel,,False
+670,Non-binaire,transgenre,,ol,True,False
+671,Genre fluide,transgenre,Homme,ol,True,True
+672,Demigenre homme,transgenre,Non assigné,,True,False
+673,Genderqueer,transgenre,Homme,iel,False,False
+674,Genderqueer,transgenre,Femme,,,False
+675,Androgyne,cisgenre,Intersexe,ol,True,False
+676,Demigenre femme,cisgenre,Femme,elle/elle,False,True
+677,Demigenre homme,cisgenre,Non assigné,,True,False
+678,Demigenre femme,transgenre,,elle/elle,True,False
+679,Genderqueer,cisgenre,Non assigné,,False,True
+680,Genre fluide,transgenre,,elu,False,True
+681,Agenre,cisgenre,Intersexe,il/lui,,True
+682,Genre fluide,cisgenre,Homme,,,True
+683,Androgyne,cisgenre,Non assigné,ul,,True
+684,Demigenre femme,cisgenre,,ul,True,False
+685,Demigenre femme,transgenre,Femme,ul,,True
+686,Demigenre homme,transgenre,Femme,,True,
+687,Femme,cisgenre,Homme,,,
+688,Femme,transgenre,Femme,iel/iels,False,False
+689,Homme,transgenre,Intersexe,,False,False
+690,Two-Spirit,transgenre,Femme,,True,
+691,Femme,transgenre,Intersexe,elle/elle,False,False
+692,Demigenre femme,cisgenre,,,,True
+693,Demigenre homme,cisgenre,,,True,
+694,Demigenre homme,transgenre,,elleux,False,
+695,Demigenre femme,transgenre,Femme,elu,False,
+696,Femme,transgenre,Homme,iel/iels,True,False
+697,Femme,cisgenre,,iel/iels,True,False
+698,Bigender,cisgenre,Femme,,True,
+699,Homme,cisgenre,,elu,False,False
+700,Two-Spirit,transgenre,Femme,,,
+701,Genre fluide,transgenre,Intersexe,elleux,True,False
+702,Non-binaire,cisgenre,,,True,False
+703,Demigenre femme,transgenre,Femme,,,False
+704,Non-binaire,transgenre,Homme,ol,False,
+705,Non-binaire,cisgenre,Homme,iel,False,False
+706,Two-Spirit,cisgenre,Femme,iel,False,True
+707,Genderqueer,cisgenre,Intersexe,elle/elle,,
+708,Demigenre homme,cisgenre,,ul,False,False
+709,Femme,transgenre,Homme,,False,False
+710,Femme,cisgenre,Femme,ul,,
+711,Androgyne,cisgenre,,il/lui,False,
+712,Bigender,cisgenre,Intersexe,il/lui,True,
+713,Androgyne,cisgenre,Femme,elleux,True,False
+714,Demigenre homme,cisgenre,,elleux,True,True
+715,Agenre,cisgenre,,elleux,True,False
+716,Demigenre homme,transgenre,Intersexe,iel/iels,True,False
+717,Demigenre femme,transgenre,Femme,iel/iels,False,False
+718,Demigenre homme,cisgenre,,elu,False,True
+719,Two-Spirit,cisgenre,Intersexe,ol,False,False
+720,Demigenre femme,cisgenre,,iel/iels,True,False
+721,Agenre,transgenre,,ol,,
+722,Agenre,transgenre,Intersexe,ol,False,True
+723,Demigenre femme,cisgenre,Intersexe,iel/iels,,False
+724,Femme,cisgenre,Femme,,,False
+725,Genderqueer,transgenre,,,False,
+726,Femme,cisgenre,Non assigné,elu,False,
+727,Two-Spirit,transgenre,Femme,,True,
+728,Agenre,cisgenre,Femme,,True,
+729,Non-binaire,transgenre,Non assigné,elu,False,False
+730,Homme,transgenre,,elle/elle,,False
+731,Demigenre homme,transgenre,,elleux,,
+732,Femme,cisgenre,Femme,,,True
+733,Demigenre femme,transgenre,,iel,False,True
+734,Genderqueer,transgenre,Homme,elleux,,
+735,Agenre,transgenre,,ul,False,True
+736,Genderqueer,cisgenre,,,False,False
+737,Genre fluide,transgenre,Non assigné,ul,True,False
+738,Androgyne,cisgenre,,iel,,True
+739,Femme,transgenre,,elleux,False,
+740,Homme,cisgenre,Intersexe,ul,True,
+741,Demigenre femme,transgenre,Femme,ol,,
+742,Bigender,transgenre,Intersexe,iel/iels,False,False
+743,Androgyne,cisgenre,Homme,ul,False,False
+744,Two-Spirit,cisgenre,Non assigné,elleux,,
+745,Non-binaire,transgenre,Femme,,False,False
+746,Neutrois,cisgenre,Non assigné,,True,True
+747,Demigenre femme,transgenre,Non assigné,elle/elle,True,True
+748,Genderqueer,cisgenre,,,False,
+749,Genderqueer,transgenre,,,False,
+750,Homme,cisgenre,Intersexe,,,False
+751,Genderqueer,transgenre,Intersexe,iel/iels,False,False
+752,Two-Spirit,cisgenre,Non assigné,ol,,False
+753,Homme,transgenre,Intersexe,elleux,False,
+754,Genre fluide,cisgenre,Homme,,True,True
+755,Demigenre homme,cisgenre,Non assigné,,True,True
+756,Agenre,transgenre,Non assigné,ul,False,True
+757,Two-Spirit,transgenre,,,False,True
+758,Femme,cisgenre,,il/lui,,False
+759,Femme,cisgenre,Femme,,,
+760,Bigender,transgenre,,elleux,,False
+761,Agenre,transgenre,Non assigné,iel,False,False
+762,Bigender,cisgenre,,,,True
+763,Non-binaire,cisgenre,Homme,ol,True,True
+764,Demigenre femme,transgenre,Femme,elleux,,False
+765,Two-Spirit,cisgenre,Intersexe,iel,False,True
+766,Femme,transgenre,Femme,ul,,False
+767,Bigender,cisgenre,Non assigné,ol,True,False
+768,Bigender,transgenre,Femme,ul,True,False
+769,Genre fluide,transgenre,Femme,ol,False,False
+770,Femme,cisgenre,Femme,,True,
+771,Two-Spirit,transgenre,Non assigné,ul,True,True
+772,Genre fluide,transgenre,,iel,False,
+773,Two-Spirit,cisgenre,Intersexe,,True,False
+774,Agenre,transgenre,,iel,,False
+775,Genderqueer,transgenre,Homme,elleux,,True
+776,Femme,transgenre,Femme,iel/iels,True,True
+777,Genre fluide,transgenre,Intersexe,ul,False,
+778,Neutrois,cisgenre,,il/lui,False,False
+779,Demigenre homme,cisgenre,Intersexe,ol,False,False
+780,Demigenre homme,transgenre,,,False,False
+781,Genre fluide,transgenre,,elleux,True,True
+782,Non-binaire,cisgenre,Homme,elle/elle,True,False
+783,Genre fluide,cisgenre,Femme,elu,True,True
+784,Bigender,cisgenre,Femme,iel,False,False
+785,Femme,cisgenre,,elle/elle,False,False
+786,Femme,cisgenre,Femme,ul,,False
+787,Bigender,cisgenre,Non assigné,elu,,False
+788,Genre fluide,cisgenre,Femme,elleux,,
+789,Non-binaire,transgenre,Intersexe,iel,True,
+790,Genderqueer,transgenre,Homme,ul,,False
+791,Androgyne,transgenre,Femme,ol,,True
+792,Non-binaire,cisgenre,Femme,,True,False
+793,Bigender,transgenre,Intersexe,iel/iels,False,False
+794,Agenre,cisgenre,,elleux,False,True
+795,Genderqueer,transgenre,Non assigné,il/lui,True,True
+796,Non-binaire,transgenre,Non assigné,elle/elle,False,True
+797,Two-Spirit,transgenre,,ol,True,True
+798,Femme,cisgenre,,ol,,
+799,Femme,transgenre,,,True,
+800,Non-binaire,transgenre,,,,True
+801,Genre fluide,transgenre,Homme,iel,False,True
+802,Demigenre femme,transgenre,Femme,iel,,False
+803,Genre fluide,transgenre,Femme,elu,,
+804,Agenre,cisgenre,Femme,iel/iels,False,
+805,Demigenre homme,transgenre,Femme,elu,,True
+806,Demigenre femme,cisgenre,,il/lui,True,
+807,Femme,cisgenre,,iel/iels,False,False
+808,Demigenre femme,transgenre,,elleux,False,True
+809,Demigenre femme,transgenre,Non assigné,iel/iels,True,
+810,Femme,cisgenre,Homme,il/lui,False,True
+811,Homme,transgenre,Intersexe,,False,
+812,Genderqueer,transgenre,Intersexe,ol,False,False
+813,Demigenre femme,cisgenre,Intersexe,elle/elle,True,True
+814,Demigenre femme,transgenre,,,False,True
+815,Non-binaire,transgenre,,,True,
+816,Neutrois,transgenre,,,,False
+817,Neutrois,transgenre,Non assigné,,False,True
+818,Agenre,cisgenre,Femme,elleux,False,False
+819,Genre fluide,cisgenre,,,,
+820,Bigender,cisgenre,,,True,False
+821,Demigenre homme,cisgenre,,iel,True,False
+822,Two-Spirit,cisgenre,Femme,ul,True,
+823,Demigenre femme,transgenre,,,True,False
+824,Femme,cisgenre,Femme,ol,True,False
+825,Bigender,transgenre,Femme,elu,,False
+826,Genre fluide,transgenre,Femme,,True,True
+827,Demigenre femme,cisgenre,Non assigné,elu,True,False
+828,Androgyne,cisgenre,Non assigné,,True,
+829,Bigender,cisgenre,,ul,,True
+830,Androgyne,transgenre,,iel,True,False
+831,Bigender,cisgenre,Femme,ol,False,False
+832,Non-binaire,transgenre,Non assigné,elu,,False
+833,Bigender,transgenre,,il/lui,True,True
+834,Homme,cisgenre,Non assigné,elleux,True,False
+835,Neutrois,transgenre,Homme,ul,,
+836,Genderqueer,cisgenre,Intersexe,elu,False,
+837,Demigenre femme,transgenre,,ol,,True
+838,Demigenre homme,transgenre,Non assigné,,False,False
+839,Two-Spirit,cisgenre,Intersexe,elu,True,True
+840,Homme,transgenre,Homme,,False,True
+841,Androgyne,cisgenre,Non assigné,,,
+842,Homme,cisgenre,,il/lui,True,False
+843,Bigender,cisgenre,Non assigné,,True,
+844,Androgyne,cisgenre,,elu,True,
+845,Agenre,transgenre,Intersexe,,,True
+846,Bigender,cisgenre,Intersexe,il/lui,True,False
+847,Demigenre femme,transgenre,Homme,il/lui,True,
+848,Genre fluide,cisgenre,Femme,,False,True
+849,Genderqueer,cisgenre,,ul,True,
+850,Bigender,cisgenre,,il/lui,True,True
+851,Demigenre homme,transgenre,Intersexe,ol,True,False
+852,Demigenre femme,cisgenre,,il/lui,,True
+853,Demigenre femme,cisgenre,,ol,,True
+854,Homme,cisgenre,Femme,,True,False
+855,Genderqueer,cisgenre,,,,True
+856,Demigenre femme,cisgenre,Homme,ul,False,
+857,Genre fluide,cisgenre,,,False,
+858,Androgyne,transgenre,,elleux,False,False
+859,Demigenre homme,transgenre,Non assigné,,False,True
+860,Bigender,transgenre,Non assigné,iel,,True
+861,Genre fluide,transgenre,,elle/elle,False,
+862,Agenre,transgenre,,elle/elle,,True
+863,Non-binaire,cisgenre,Intersexe,iel,False,False
+864,Two-Spirit,cisgenre,Non assigné,iel,False,False
+865,Femme,cisgenre,Homme,,,True
+866,Neutrois,cisgenre,Non assigné,ul,,True
+867,Homme,cisgenre,Intersexe,,True,True
+868,Genderqueer,transgenre,,,True,False
+869,Genre fluide,cisgenre,Intersexe,iel/iels,,True
+870,Non-binaire,transgenre,Non assigné,il/lui,False,True
+871,Femme,cisgenre,Femme,ul,True,False
+872,Femme,cisgenre,Non assigné,elu,True,False
+873,Homme,transgenre,Homme,,,True
+874,Demigenre homme,transgenre,Femme,,True,True
+875,Two-Spirit,cisgenre,Non assigné,elle/elle,,
+876,Genderqueer,transgenre,Non assigné,iel/iels,,False
+877,Demigenre femme,transgenre,,iel,True,False
+878,Homme,cisgenre,,elu,,
+879,Demigenre homme,transgenre,Femme,,True,False
+880,Femme,transgenre,Non assigné,ol,False,False
+881,Non-binaire,cisgenre,,iel,False,True
+882,Non-binaire,transgenre,Femme,,False,False
+883,Genderqueer,cisgenre,,ol,,True
+884,Demigenre femme,transgenre,Homme,,False,False
+885,Genre fluide,transgenre,Intersexe,,False,True
+886,Genderqueer,cisgenre,Femme,,,
+887,Neutrois,cisgenre,Intersexe,iel,,False
+888,Bigender,cisgenre,Homme,elle/elle,True,
+889,Non-binaire,transgenre,Homme,il/lui,,False
+890,Femme,cisgenre,Intersexe,ol,False,True
+891,Androgyne,transgenre,Intersexe,,,
+892,Androgyne,transgenre,Femme,,,True
+893,Non-binaire,cisgenre,Non assigné,elu,True,True
+894,Two-Spirit,transgenre,Homme,,False,False
+895,Bigender,cisgenre,Intersexe,il/lui,False,False
+896,Androgyne,cisgenre,Non assigné,elleux,False,
+897,Androgyne,transgenre,Non assigné,elle/elle,False,True
+898,Non-binaire,cisgenre,Homme,,False,
+899,Bigender,transgenre,Intersexe,elle/elle,False,True
+900,Femme,cisgenre,,,,True
+901,Non-binaire,cisgenre,Non assigné,,,True
+902,Demigenre femme,cisgenre,,,,True
+903,Genderqueer,transgenre,,il/lui,,False
+904,Androgyne,transgenre,Intersexe,il/lui,False,True
+905,Demigenre homme,cisgenre,Femme,iel,,
+906,Femme,transgenre,Non assigné,elle/elle,False,True
+907,Genderqueer,cisgenre,Intersexe,ol,True,True
+908,Neutrois,transgenre,Femme,elle/elle,,False
+909,Demigenre homme,cisgenre,Non assigné,elu,,False
+910,Demigenre femme,cisgenre,Homme,il/lui,,True
+911,Genderqueer,transgenre,Homme,elle/elle,False,True
+912,Bigender,cisgenre,Homme,iel/iels,,False
+913,Neutrois,transgenre,Homme,ol,,True
+914,Androgyne,transgenre,Intersexe,,True,
+915,Demigenre femme,transgenre,,,,False
+916,Androgyne,transgenre,Intersexe,elle/elle,,False
+917,Androgyne,cisgenre,Femme,,False,True
+918,Two-Spirit,transgenre,Homme,elu,,
+919,Androgyne,transgenre,,,False,False
+920,Genre fluide,cisgenre,Homme,iel/iels,True,False
+921,Bigender,cisgenre,Homme,ul,False,True
+922,Bigender,transgenre,Femme,,False,True
+923,Non-binaire,cisgenre,Femme,il/lui,True,True
+924,Demigenre homme,cisgenre,Intersexe,elleux,False,False
+925,Bigender,cisgenre,Intersexe,iel/iels,,True
+926,Agenre,transgenre,,ol,False,True
+927,Demigenre homme,transgenre,Non assigné,elu,,True
+928,Neutrois,transgenre,Intersexe,elle/elle,,False
+929,Agenre,cisgenre,Intersexe,,,False
+930,Demigenre homme,cisgenre,Femme,elle/elle,False,
+931,Homme,transgenre,Homme,iel,True,True
+932,Demigenre homme,cisgenre,Femme,elle/elle,False,True
+933,Non-binaire,cisgenre,Intersexe,il/lui,False,
+934,Demigenre femme,transgenre,Homme,il/lui,True,True
+935,Genre fluide,cisgenre,Homme,elu,False,True
+936,Genderqueer,transgenre,Intersexe,ul,False,False
+937,Genre fluide,cisgenre,Femme,,True,
+938,Agenre,transgenre,,,False,
+939,Genderqueer,transgenre,Femme,elu,True,
+940,Homme,cisgenre,,elu,,False
+941,Two-Spirit,cisgenre,Femme,iel,True,False
+942,Homme,cisgenre,Homme,ol,False,False
+943,Genderqueer,transgenre,Intersexe,elle/elle,,True
+944,Bigender,transgenre,Intersexe,ul,False,
+945,Non-binaire,cisgenre,Non assigné,il/lui,False,True
+946,Demigenre homme,cisgenre,,,,False
+947,Non-binaire,cisgenre,Femme,elle/elle,False,True
+948,Two-Spirit,cisgenre,Non assigné,ul,True,False
+949,Two-Spirit,cisgenre,Femme,elu,True,
+950,Non-binaire,cisgenre,,ol,True,False
+951,Bigender,cisgenre,,il/lui,True,False
+952,Homme,cisgenre,Intersexe,ul,True,False
+953,Femme,transgenre,Femme,ol,False,
+954,Genderqueer,transgenre,Femme,,True,True
+955,Neutrois,transgenre,Homme,iel/iels,True,
+956,Two-Spirit,transgenre,Homme,elu,False,False
+957,Demigenre femme,transgenre,Femme,elleux,False,False
+958,Non-binaire,transgenre,Femme,elu,,False
+959,Androgyne,transgenre,Non assigné,,True,
+960,Two-Spirit,cisgenre,,iel,True,True
+961,Genre fluide,cisgenre,Femme,il/lui,False,True
+962,Two-Spirit,cisgenre,Homme,il/lui,True,True
+963,Genderqueer,cisgenre,Femme,iel/iels,True,
+964,Two-Spirit,transgenre,Femme,,,False
+965,Demigenre femme,transgenre,Intersexe,iel,False,True
+966,Homme,transgenre,,ol,False,False
+967,Agenre,transgenre,,elu,True,True
+968,Bigender,cisgenre,,,True,False
+969,Demigenre homme,cisgenre,Homme,,True,
+970,Femme,transgenre,,,,True
+971,Bigender,cisgenre,Non assigné,,True,
+972,Demigenre femme,transgenre,,iel,False,True
+973,Agenre,cisgenre,Femme,elle/elle,False,True
+974,Agenre,cisgenre,Femme,elle/elle,True,False
+975,Demigenre homme,transgenre,Intersexe,iel/iels,,
+976,Genderqueer,cisgenre,Homme,il/lui,True,
+977,Bigender,cisgenre,Intersexe,elleux,True,
+978,Neutrois,cisgenre,,il/lui,,False
+979,Neutrois,cisgenre,,,,False
+980,Agenre,transgenre,,,,True
+981,Demigenre homme,cisgenre,Femme,iel,False,True
+982,Homme,transgenre,,ol,True,
+983,Demigenre homme,cisgenre,,elle/elle,False,True
+984,Demigenre homme,cisgenre,Non assigné,,False,
+985,Neutrois,cisgenre,Intersexe,elle/elle,True,True
+986,Demigenre femme,transgenre,,elu,True,False
+987,Non-binaire,cisgenre,Homme,,False,False
+988,Two-Spirit,cisgenre,Intersexe,,True,
+989,Femme,transgenre,,elle/elle,False,True
+990,Two-Spirit,transgenre,Non assigné,,True,False
+991,Agenre,transgenre,Non assigné,ul,True,
+992,Femme,transgenre,Femme,,True,True
+993,Demigenre homme,transgenre,Homme,elu,,False
+994,Non-binaire,transgenre,Non assigné,elu,,True
+995,Agenre,transgenre,Non assigné,elleux,,
+996,Agenre,cisgenre,,ol,False,True
+997,Neutrois,cisgenre,Intersexe,,True,False
+998,Femme,transgenre,Intersexe,iel/iels,True,
+999,Bigender,cisgenre,Intersexe,ul,False,False
+1000,Genderqueer,cisgenre,,,False,True

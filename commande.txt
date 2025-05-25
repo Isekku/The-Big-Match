@@ -1,0 +1,8 @@
+\copy utilisateur (nom_genre,type_genre,nom_orientation,nom,prenom,email,numero_tel,mdp_hash,age,taille,couleur_peau,couleur_yeux,corpulence,photo_profil_url,derniere_connexion,bio,isPremium,last_localisation_latitude,last_localisation_longitude) FROM 'CSV/utilisateur.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
+\copy genreUtilisateur (idU, nom_genre, type_genre, genre_assigne_naiss, pronom_preferes, transition_sociale, transition_medicale) FROM 'CSV/genre_utilisateur.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
+\copy aime (idU1, idU2) FROM 'CSV/aime.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
+\copy lieu (nom, adresse, description) FROM 'CSV/lieu.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
+\copy evenement (idL, nom, prix, description, date_event) FROM 'CSV/evenement.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
+\copy organisateur (idU, idE) FROM 'CSV/organisateur.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
+\copy participation (idU, idE, type_participation) FROM 'CSV/participation.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
+\copy tagUtilisateur (idT, idU) FROM 'CSV/tagUtilisateur.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',');
