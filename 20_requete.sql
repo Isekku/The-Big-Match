@@ -73,7 +73,7 @@ WHERE E1.prix = (
 	WHERE E1.idL = E2.idL
 );
 
---Tous les pairs d'utilisateur et le mots dominant dans les contenus où ils ont déposé un avis positif (donc plus de 5)
+--Toutes les pairs d'utilisateur et le mots dominant dans les contenus où ils ont déposé un avis positif (donc plus de 5)
 WITH mots AS (
   SELECT 
     re.idU,
@@ -181,7 +181,7 @@ WHERE (r.idRe, a.nb_abonne) IN (
 )
 OR a.nb_abonne IS NULL;
 
---Les utilisateurs qui ont un compte sur au moins 20% les réseaux externes disponibles :
+--Les utilisateurs qui ont un compte sur au moins 20% les réseaux externes totales :
 ----Avec sous-requête corrélés :
 SELECT u.idU, u.prenom, u.nom
 FROM Utilisateur u
@@ -238,11 +238,11 @@ JOIN Avis a2 ON re.idU = (
     WHERE aa2.idAAv = a2.idAAv
     LIMIT 1
 )
-AND a2.idAAv <> a1.idAAv -- éviter même avis
+AND a2.idAAv <> a1.idAAv
 
 WHERE a1.note > 5
   AND a2.note > 5
-  AND a1.titre > a2.titre -- ordre arbitraire sur titre
+  AND a1.titre > a2.titre
   AND a1.note > a2.note;
 
 
